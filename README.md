@@ -1,1 +1,1 @@
-"# Music-Player-with-JS" 
+"# Lofi-Music-Player-with-JS" 
